@@ -1,0 +1,15 @@
+$color-primary: #0000FF;
+
+$screen-space-mobile: 2em;
+$screen-space: 3em;
+
+
+
+$breakpoints: (
+  mobile-s:  240px,
+  mobile-l:  425px,
+  tablet-s:  480px,
+  tablet-l:  768px,
+  screen-s:  1024px,
+  screen-l:  1280px
+) !default;
